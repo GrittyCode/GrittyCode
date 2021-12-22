@@ -33,11 +33,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
   
   
-
-
-
-
-
 <!--
 **GrittyCode/GrittyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
