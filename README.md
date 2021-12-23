@@ -29,7 +29,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <h2 align="center"><b>🏆️ solved.ac Rank 🏆️</b></h2>
 <br></br>
 <div align=center>
-<img align='' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=grittyz">
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=grittyz">
 </div>
   
   
